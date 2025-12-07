@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋, I'm Tanveer Hassan  
+A passionate full-stack & AI automation developer from Pakistan
 
-<!--
-**Trusted-Development-Spot/Trusted-development-Spot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **AI, SaaS & Automation systems**  
+- 🌱 I’m currently learning & building with **Next.js & modern AI stacks**  
+- 💬 Ask me about **MERN, AI tools, SEO / GEO SEO, automations, SaaS & chatbots**  
+- 📫 How to reach me: **hello@trustedspotai.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with me
+
+- 🌍 Portfolio (real SEO + web results):  
+  https://trusted-development-spot.github.io/a2zlead-project-portfolio/  
+
+- 💬 WhatsApp (quick contact):  
+  https://wa.link/rxtiua  
+
+- 🧑‍💻 Kwork profile (Top Rated Plus – Trusted Ranking Spot):  
+  https://kwork.com/user/trusted-ranking-spot  
+
+---
+
+### 🚀 Languages and Tools
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,git,github,tailwind,figma,vscode" />
+
+---
+
+### 📊 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=trusted-development-spot&color=blue)
+
+---
+
+### 🔥 Contribution Stats
+
+![Tanveer's GitHub streak](https://streak-stats.demolab.com?user=trusted-development-spot)
+
+---
+
+### 📌 Pinned Projects
+
+- AI Lead Generation & Outreach Tool (Next.js + AI automations)  
+- AI PBN Poster Platform (automation for large PBN networks)  
+- Custom Telegram Bot Creator SaaS  
+- Amazon Product Research & FBA Analytics Tool  
+
+> Pin the repositories for these (or similar) projects from your GitHub settings so they show up on your profile.
