@@ -1,4 +1,4 @@
-# Hi 👋, I'm Tanveer Hassan  
+# Hi 👋, I'm Trusted-Development-Spot Owner  
 A passionate full-stack & AI automation developer from Pakistan
 
 - 🔭 I’m currently working on **AI, SaaS & Automation systems**  
