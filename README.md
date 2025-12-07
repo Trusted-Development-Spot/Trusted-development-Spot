@@ -4,7 +4,7 @@ A passionate full-stack & AI automation developer from Pakistan
 - 🔭 I’m currently working on **AI, SaaS & Automation systems**  
 - 🌱 I’m currently learning & building with **Next.js & modern AI stacks**  
 - 💬 Ask me about **MERN, AI tools, SEO / GEO SEO, automations, SaaS & chatbots**  
-- 📫 How to reach me: **hello@trustedspotai.com**
+- 📫 How to reach me: **trustedspotllc@gmail.com**
 
 ---
 
